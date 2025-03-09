@@ -1,4 +1,3 @@
-Bulls and Cows Game
 This Python script implements the Bulls and Cows game, a classic code-breaking game where the player tries to guess a secret three-digit number. The game provides feedback to help the player refine their guesses.
 
 Features:
@@ -16,10 +15,3 @@ Receive feedback on your guess in terms of "cows" and "bulls."
 Keep guessing until you either guess the number correctly or exhaust all the tries.
 Requirements:
 Python 3.x
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Python
-100.0%
